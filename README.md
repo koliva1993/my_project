@@ -10,4 +10,6 @@
 ## Codacy coverage
 [![Codacy Badge](https://api.codacy.com/project/badge/Coverage/d66776706db94ed5b641e13d5738dca0)](https://www.codacy.com/app/schubert_david/python_ci_setup?utm_source=github.com&utm_medium=referral&utm_content=scrodrig/python_ci_setup&utm_campaign=Badge_Coverage)
 ## Snyk
-[![Known Vulnerabilities](https://snyk.io/test/github/scrodrig/python_ci_setup/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/scrodrig/python_ci_setup?targetFile=requirements.txt)
+[![Known Vulnerabilities](https://snyk.io/test/github/koliva1993/my_project/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/koliva1993/my_project?targetFile=requirements.txt)
+
+
